@@ -42,6 +42,11 @@ I will try to show how you can make a character with a change of clothes and ass
 2. [Blender 2.93.9](https://www.blender.org/download/lts/2-93/)
 3. [Godot 3.4.4](https://godotengine.org/download) (3.5 compatible)
 
+Some remarks about working with newer versions of the software:
+
+- In **Blender 3**, the Retarget BVH plugin does not work yet.
+- **Godot 4** does not import .blend files correctly. It is recommended to import via glTF.
+
 
 ### Addons:
 
@@ -213,3 +218,6 @@ You can put the character from MH into Blender in several ways.
 It is desirable not to forget to switch "Scale units" to a meter.
 
 ![vol1_11](vol1_11_export.jpg)
+
+\
+Translated with http://www.DeepL.com/Translator (free version)
